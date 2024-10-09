@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sakharun/dorgoon/static/css/main.32d43617.chunk.css",
-    "main.js": "/sakharun/dorgoon/static/js/main.cf58ceb1.chunk.js",
-    "main.js.map": "/sakharun/dorgoon/static/js/main.cf58ceb1.chunk.js.map",
-    "runtime~main.js": "/sakharun/dorgoon/static/js/runtime~main.40a16eda.js",
-    "runtime~main.js.map": "/sakharun/dorgoon/static/js/runtime~main.40a16eda.js.map",
-    "static/js/2.2af61a2d.chunk.js": "/sakharun/dorgoon/static/js/2.2af61a2d.chunk.js",
-    "static/js/2.2af61a2d.chunk.js.map": "/sakharun/dorgoon/static/js/2.2af61a2d.chunk.js.map",
-    "index.html": "/sakharun/dorgoon/index.html",
-    "precache-manifest.5237ec68050af1ae477a3bd858bd53ea.js": "/sakharun/dorgoon/precache-manifest.5237ec68050af1ae477a3bd858bd53ea.js",
-    "service-worker.js": "/sakharun/dorgoon/service-worker.js",
-    "static/css/main.32d43617.chunk.css.map": "/sakharun/dorgoon/static/css/main.32d43617.chunk.css.map",
-    "static/media/Ca.png": "/sakharun/dorgoon/static/media/Ca.4e4f6805.png",
-    "static/media/run.png": "/sakharun/dorgoon/static/media/run.6898100a.png",
-    "static/media/tangra.png": "/sakharun/dorgoon/static/media/tangra.d73453f8.png"
+    "main.css": "/dorgoon/static/css/main.32d43617.chunk.css",
+    "main.js": "/dorgoon/static/js/main.b6e661aa.chunk.js",
+    "main.js.map": "/dorgoon/static/js/main.b6e661aa.chunk.js.map",
+    "runtime~main.js": "/dorgoon/static/js/runtime~main.d70e53c2.js",
+    "runtime~main.js.map": "/dorgoon/static/js/runtime~main.d70e53c2.js.map",
+    "static/js/2.2af61a2d.chunk.js": "/dorgoon/static/js/2.2af61a2d.chunk.js",
+    "static/js/2.2af61a2d.chunk.js.map": "/dorgoon/static/js/2.2af61a2d.chunk.js.map",
+    "index.html": "/dorgoon/index.html",
+    "precache-manifest.53226405957d492c97081efdb78978c2.js": "/dorgoon/precache-manifest.53226405957d492c97081efdb78978c2.js",
+    "service-worker.js": "/dorgoon/service-worker.js",
+    "static/css/main.32d43617.chunk.css.map": "/dorgoon/static/css/main.32d43617.chunk.css.map",
+    "static/media/Ca.png": "/dorgoon/static/media/Ca.4e4f6805.png",
+    "static/media/run.png": "/dorgoon/static/media/run.6898100a.png",
+    "static/media/tangra.png": "/dorgoon/static/media/tangra.d73453f8.png"
   }
 }
