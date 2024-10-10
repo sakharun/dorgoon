@@ -1,0 +1,15 @@
+.scroll {
+  text-decoration: none;
+  position: fixed;
+
+  background: var(--gray-dark);
+  color: rgb(41, 40, 40);
+  font-size: 1.2rem;
+  opacity: 0.6;
+  bottom: 1rem;
+  border-radius: 4px;
+  transition: ease 2s;
+  padding: 1px;
+  margin: 4px;
+  cursor: pointer;
+}
