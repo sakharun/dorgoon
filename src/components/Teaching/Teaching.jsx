@@ -2,7 +2,7 @@ import React from "react";
 import WayToTeach from "../WayToTeach";
 import "./Teaching.css";
 import { ways } from "../../data";
-import run from "../run.png";
+import run from "../images/run.png";
 
 export default function Teaching() {
   const top = () => {

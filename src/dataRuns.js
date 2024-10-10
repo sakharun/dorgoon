@@ -40,7 +40,7 @@ export const runs = {
   иччи: "иччи",
 };
 
-export const Images = [
-  { Aar: "../componets/images/Aar.png" },
-  { Agaa: "./components/images/Agaa.png" },
-];
+// export const Images = [
+//   { Aar: "../componets/images/Aar.png" },
+//   { Agaa: "./components/images/Agaa.png" },
+// ];
