@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { runs } from "../data";
+import { runs } from "../dataRuns";
 import Button from "./Button/Button";
 
 let keys = Object.keys(runs);
