@@ -102,7 +102,7 @@ export default function RunsSection() {
       </Button>
       <Button isActive={contentType === "ka"} onClick={() => handleClick("ka")}>
         <img src={require("./images/ka.png")} alt="ka" width={20} />
-        Kа
+        Kа/Ха
       </Button>
       <Button isActive={contentType === "ba"} onClick={() => handleClick("ba")}>
         <img src={require("./images/ba.png")} alt="ba" width={20} />
