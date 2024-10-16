@@ -15,6 +15,9 @@ export default function RunsSection() {
   return (
     <section>
       <h3 className="centered">Руна эбэтэр Урууна Сурук</h3>
+      <h6 className="centered" style={{ color: "#666", opacity: "0.3" }}>
+        Сыҥа буолбатах, тыл төрдүн көрүү
+      </h6>
 
       {!contentType && (
         <p>
@@ -161,7 +164,7 @@ export default function RunsSection() {
         onClick={() => handleClick("өҕө")}
       >
         <img src={require("./images/өҕө.png")} alt="өҕө" width={20} />
-        өҕө
+        өҕө/эҕэ
       </Button>
       <Button isActive={contentType === "uk"} onClick={() => handleClick("uk")}>
         <img src={require("./images/uk.png")} alt="uk" width={20} />
@@ -186,7 +189,7 @@ export default function RunsSection() {
         onClick={() => handleClick("һыт")}
       >
         <img src={require("./images/һыт.png")} alt="һыт" width={20} />
-        һыт
+        һыт/һит
       </Button>
       <Button
         isActive={contentType === "анта"}
