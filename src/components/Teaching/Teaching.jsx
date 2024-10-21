@@ -11,9 +11,7 @@ export default function Teaching() {
   return (
     <section>
       <h3 className="centered">Тылы дорҕоонунан ырытыы</h3>
-      <h6 className="centered" style={{ color: "#666", opacity: "0.3" }}>
-        Сыҥа буолбатах, тыл төрдүн көрүү
-      </h6>
+
       <div className="centered">
         <img src={run} alt="img" width={100} />
       </div>

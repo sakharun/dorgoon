@@ -2,10 +2,10 @@
   text-decoration: none;
   position: fixed;
 
-  background: gray;
+  background: #0432afe3;
   color: rgb(41, 40, 40);
   font-size: 1.2rem;
-  opacity: 0.6;
+  opacity: 0.8;
   bottom: 1rem;
   border-radius: 4px;
   transition: ease 2s;

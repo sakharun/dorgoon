@@ -124,18 +124,17 @@ export const ways = [
     description: "Хаа аана",
   },
   {
-    title: "Таҥха",
-    description: "Таҥ Хааны ",
-  },
-  {
-    title: "Дьылга",
-    description: "Ылан оҥоруохтааххын, саҥардан ылҕаа",
-  },
-  {
     title: "Билгэ",
     description: "Бии иитин билэн илгэ",
   },
-
+  {
+    title: "Дьылҕа",
+    description: "Ылан оҥоруохтааххын, саҥардан ылҕаа",
+  },
+  {
+    title: "Таҥха",
+    description: "Таҥ Хааны ",
+  },
   {
     title: "Үөрэх",
     description: "Үөрэх - Үөһү өрөр, эҕэр (көннөрөр)",

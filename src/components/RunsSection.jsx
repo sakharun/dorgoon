@@ -15,9 +15,6 @@ export default function RunsSection() {
   return (
     <section>
       <h3 className="centered">Руна эбэтэр Урууна Сурук</h3>
-      <h6 className="centered" style={{ color: "#666", opacity: "0.3" }}>
-        Сыҥа буолбатах, тыл төрдүн көрүү
-      </h6>
 
       {!contentType && (
         <p>
