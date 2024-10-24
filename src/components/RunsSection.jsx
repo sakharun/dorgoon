@@ -81,7 +81,7 @@ export default function RunsSection() {
         isActive={contentType === "mind"}
         onClick={() => handleClick("mind")}
       >
-        <img src={require("./images/өйө.png")} alt="dower" width={30} />
+        <img src={require("./images/өйө.png")} alt="mind" width={30} />
         Өйө
       </Button>
       <Button isActive={contentType === "il"} onClick={() => handleClick("il")}>
