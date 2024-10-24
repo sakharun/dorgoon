@@ -2,8 +2,11 @@ import React, { useState } from "react";
 import { runs } from "../dataRuns";
 import Button from "./Button/Button";
 
-let keys = Object.keys(runs);
-console.log(keys);
+const arrRun = Object.keys(runs).map((key) =>
+  Object.assign([], { [key]: runs[key] })
+);
+
+console.log(arrRun);
 
 export default function RunsSection() {
   const [contentType, setContentType] = useState(null);
