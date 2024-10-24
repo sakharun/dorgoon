@@ -8,7 +8,7 @@ export default function MainSection() {
         билэрбэр-көрөрбөр.
       </h3>
       <h6 className="centered" style={{ color: "#666", opacity: "0.3" }}>
-        Сыҥа буолбатах, тыл төрдүн көрүү
+        Сыҥа буолбатах, тыл төрдүн көрүү. Ии саҥардыллан иһэр
       </h6>
     </section>
   );
