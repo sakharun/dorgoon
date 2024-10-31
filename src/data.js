@@ -26,7 +26,7 @@ export const ways = [
   },
   {
     title: "Итэҕэл",
-    description: "Итэҕэл - Иини ИиТэр ЭҔэ ЭЛээх",
+    description: "Итэҕэл - Иини ИиТэр ЭҔэ ЭЛ",
   },
   {
     title: "Тыл",
