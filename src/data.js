@@ -111,8 +111,12 @@ export const ways = [
     description: "Сүгэ үҥэн хат ааһын ",
   },
   {
+    title: "Дьол",
+    description: "Олох, турук саҥардыыта",
+  },
+  {
     title: "Дьахтар",
-    description: "АХТАР ааҕыллар таҥара Аара ",
+    description: "Ахтары саҥарт, ааҕыллар таҥара Аара ",
   },
   {
     title: "Салгын",
