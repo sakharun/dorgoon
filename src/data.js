@@ -108,7 +108,7 @@ export const ways = [
   },
   {
     title: "Сүҥ Дьааһын",
-    description: "Сүгэ үҥэн хат ааһын ",
+    description: "Сүүгэ үҥэн хат ааһын ",
   },
   {
     title: "Дьол",

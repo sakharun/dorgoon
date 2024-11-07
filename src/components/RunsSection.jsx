@@ -175,7 +175,7 @@ export default function RunsSection() {
         onClick={() => handleClick("өйдө")}
       >
         <img src={require("./images/өйдө.png")} alt="өйдө" width={20} />
-        өйдө
+        өйдө/өй
       </Button>
       <Button
         isActive={contentType === "ини"}
