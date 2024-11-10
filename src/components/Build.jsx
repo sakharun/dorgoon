@@ -6,8 +6,8 @@ const Build = () => {
   return (
     <section>
       <div className="centered">
-        <img src={urun} alt="img" width={600} />
-        <img src={tutul} alt="img" width={700} />
+        <img src={urun} alt="img" width={473} />
+        <img src={tutul} alt="img" width={473} />
       </div>
     </section>
   );
