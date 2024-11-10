@@ -27,7 +27,7 @@ export default function RunsSection() {
           </span>
         </p>
       )}
-      {contentType && <p className="centered">{runs[contentType]}</p>}
+      {contentType && <h4 className="centered">{runs[contentType]}</h4>}
 
       <Button
         isActive={contentType === "Аар"}
