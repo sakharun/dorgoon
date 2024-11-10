@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3771e78efdf4c03797c8ce47893c0547",
+    "revision": "68fd11a09fca3950a5d796b78465cb73",
     "url": "/dorgoon/index.html"
   },
   {
-    "revision": "8df9881ee443919d9379",
+    "revision": "635c141fdc2398b26eef",
     "url": "/dorgoon/static/css/main.6349ab26.chunk.css"
   },
   {
-    "revision": "313021c10cc7cccc30b4",
-    "url": "/dorgoon/static/js/2.2af61a2d.chunk.js"
+    "revision": "2b84c700f41d532a09f3",
+    "url": "/dorgoon/static/js/2.3798251e.chunk.js"
   },
   {
-    "revision": "8df9881ee443919d9379",
-    "url": "/dorgoon/static/js/main.bc42bb78.chunk.js"
+    "revision": "635c141fdc2398b26eef",
+    "url": "/dorgoon/static/js/main.03ef4d01.chunk.js"
   },
   {
     "revision": "355a7cb6b6c2c4d8dc9c",
@@ -30,5 +30,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d73453f8597bff6cdb7f6535f71e4da1",
     "url": "/dorgoon/static/media/tangra.d73453f8.png"
+  },
+  {
+    "revision": "af63da7090cc5b9a3710ec241ca79e08",
+    "url": "/dorgoon/static/media/Таҥара.af63da70.png"
+  },
+  {
+    "revision": "d2c98f2e764770574912cb06e6cc558b",
+    "url": "/dorgoon/static/media/Үрүҥ Айыы.d2c98f2e.png"
   }
 ]);
