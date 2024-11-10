@@ -8,6 +8,7 @@ import TabsSection from "./components/TabsSection";
 
 import Teaching from "./components/Teaching/Teaching";
 import MainSection from "./components/MainSection";
+import Build from "./components/Build";
 
 function App() {
   const [tab, setTab] = useState("run");
@@ -27,6 +28,7 @@ function App() {
         )}
 
         {tab === "run" && <RunsSection />}
+        {tab === "tut" && <Build />}
       </main>
     </>
   );

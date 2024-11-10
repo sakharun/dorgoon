@@ -10,6 +10,9 @@ export default function TabsSection({ active, onChange }) {
       <Button isActive={active === "run"} onClick={() => onChange("run")}>
         Уурууну сурук
       </Button>
+      <Button isActive={active === "tut"} onClick={() => onChange("tut")}>
+        Утумньу тутула
+      </Button>
     </section>
   );
 }
