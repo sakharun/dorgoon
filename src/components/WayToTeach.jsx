@@ -5,6 +5,7 @@ export default function WayToTeach({ title, description }) {
       <p>
         <strong>{title}</strong>
         <br />
+        <br />
         {description}
       </p>
     </li>
