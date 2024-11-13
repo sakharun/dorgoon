@@ -129,6 +129,13 @@ export default function RunsSection() {
         Уус
       </Button>
       <Button
+        isActive={contentType === "iis"}
+        onClick={() => handleClick("iis")}
+      >
+        <img src={require("./images/iis.png")} alt="iis" width={20} />
+        Иис
+      </Button>
+      <Button
         isActive={contentType === "Aiu"}
         onClick={() => handleClick("Aiu")}
       >
