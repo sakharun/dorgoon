@@ -124,10 +124,6 @@ export const ways = [
     description: "Олох, турук саҥардыыта",
   },
   {
-    title: "Дьахтар",
-    description: "Ахтары саҥарт, ааҕыллар ахтыы таҥара Аара ",
-  },
-  {
     title: "Кийиит",
     description: "Киирэр ийэ иитэ ",
   },

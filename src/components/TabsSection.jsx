@@ -3,7 +3,12 @@ import Button from "./Button/Button";
 
 export default function TabsSection({ active, onChange }) {
   return (
-    <section style={{ marginBottom: "1rem", textAlign: "center" }}>
+    <section
+      style={{
+        marginBottom: "1rem",
+        textAlign: "center",
+      }}
+    >
       <Button isActive={active === "main"} onClick={() => onChange("main")}>
         Өйдөбүллэр
       </Button>
