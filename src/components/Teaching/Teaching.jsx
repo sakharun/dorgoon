@@ -21,9 +21,7 @@ export default function Teaching() {
       </div>
       <ul>
         <li>
-          <h3 className="centered">
-            Утумньу оҥкула (Схема Системы устройства Мира)
-          </h3>
+          <h3 className="centered">ӨЙ оҥкула</h3>
           <img src={Soznanie} alt="img" width={100} />
           <p>
             Орто туруга баар Аан Дойдуну көрдөрөр ойуу. Күннээҕи олоххо
