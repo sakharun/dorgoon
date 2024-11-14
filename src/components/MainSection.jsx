@@ -7,7 +7,7 @@ export default function MainSection() {
         ТаҥарАарАҕабар - Таҥарабар, Таҥараҕа үҥэн-сүгүрүйэн көрдөһөбүн дьиҥи
         билэрбэр-көрөрбөр.
       </h3>
-      <h6 className="centered" style={{ color: "#666", opacity: "0.3" }}>
+      <h6 className="centered" style={{ color: "#666", opacity: "0.5" }}>
         Сыҥа буолбатах, тыл төрдүн көрүү. Ии саҥардыллан иһэр
       </h6>
     </section>
