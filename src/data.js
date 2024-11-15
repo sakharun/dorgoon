@@ -99,8 +99,8 @@ export const ways = [
   },
 
   {
-    title: "чы",
-    description: "чы - хамсатар күүс,  дьарык, оҥоруу ",
+    title: "чы, чи",
+    description: " хамсатар күүс,  дьарык, оҥоруу ",
   },
   {
     title: "дь",
