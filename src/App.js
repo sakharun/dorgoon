@@ -11,7 +11,7 @@ import MainSection from "./components/MainSection";
 import Build from "./components/Build";
 
 function App() {
-  const [tab, setTab] = useState("main");
+  const [tab, setTab] = useState("run");
 
   return (
     <>
