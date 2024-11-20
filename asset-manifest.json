@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/dorgoon/static/css/main.e4418294.chunk.css",
-    "main.js": "/dorgoon/static/js/main.e30e248b.chunk.js",
-    "main.js.map": "/dorgoon/static/js/main.e30e248b.chunk.js.map",
-    "runtime~main.js": "/dorgoon/static/js/runtime~main.d70e53c2.js",
-    "runtime~main.js.map": "/dorgoon/static/js/runtime~main.d70e53c2.js.map",
-    "static/js/2.6165a24b.chunk.js": "/dorgoon/static/js/2.6165a24b.chunk.js",
-    "static/js/2.6165a24b.chunk.js.map": "/dorgoon/static/js/2.6165a24b.chunk.js.map",
+    "main.css": "/dorgoon/static/css/main.1ee38ca4.chunk.css",
+    "main.js": "/dorgoon/static/js/main.55ed1af9.chunk.js",
+    "main.js.map": "/dorgoon/static/js/main.55ed1af9.chunk.js.map",
+    "runtime-main.js": "/dorgoon/static/js/runtime-main.da9a104a.js",
+    "runtime-main.js.map": "/dorgoon/static/js/runtime-main.da9a104a.js.map",
+    "static/js/2.f77d37f4.chunk.js": "/dorgoon/static/js/2.f77d37f4.chunk.js",
+    "static/js/2.f77d37f4.chunk.js.map": "/dorgoon/static/js/2.f77d37f4.chunk.js.map",
     "index.html": "/dorgoon/index.html",
-    "precache-manifest.6a413fc7685d134f12141ee064ad36a6.js": "/dorgoon/precache-manifest.6a413fc7685d134f12141ee064ad36a6.js",
+    "precache-manifest.bb8fbe3dae3142d4f2ce39be8f91d949.js": "/dorgoon/precache-manifest.bb8fbe3dae3142d4f2ce39be8f91d949.js",
     "service-worker.js": "/dorgoon/service-worker.js",
-    "static/css/main.e4418294.chunk.css.map": "/dorgoon/static/css/main.e4418294.chunk.css.map",
+    "static/css/main.1ee38ca4.chunk.css.map": "/dorgoon/static/css/main.1ee38ca4.chunk.css.map",
+    "static/js/2.f77d37f4.chunk.js.LICENSE.txt": "/dorgoon/static/js/2.f77d37f4.chunk.js.LICENSE.txt",
     "static/media/Ca.png": "/dorgoon/static/media/Ca.4e4f6805.png",
     "static/media/NadSoznanie.png": "/dorgoon/static/media/NadSoznanie.d3098da7.png",
     "static/media/Soznanie.png": "/dorgoon/static/media/Soznanie.77a62fbf.png",
     "static/media/SverxSoznanie.png": "/dorgoon/static/media/SverxSoznanie.1fd44150.png",
+    "static/media/icon-close.ac042ab8.svg": "/dorgoon/static/media/icon-close.ac042ab8.svg",
     "static/media/run.png": "/dorgoon/static/media/run.6898100a.png",
     "static/media/tangra.png": "/dorgoon/static/media/tangra.d73453f8.png",
     "static/media/Таҥара.png": "/dorgoon/static/media/Таҥара.af63da70.png",
     "static/media/Үрүҥ Айыы.png": "/dorgoon/static/media/Үрүҥ Айыы.d2c98f2e.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9a104a.js",
+    "static/js/2.f77d37f4.chunk.js",
+    "static/css/main.1ee38ca4.chunk.css",
+    "static/js/main.55ed1af9.chunk.js"
+  ]
 }

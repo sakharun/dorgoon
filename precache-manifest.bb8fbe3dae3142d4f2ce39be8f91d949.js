@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19247a2ed1abb800894d3a2526aa51d0",
+    "revision": "0de57a036804bb6c6b88ac2fcbacbe77",
     "url": "/dorgoon/index.html"
   },
   {
-    "revision": "89f014d50e195ea584d8",
-    "url": "/dorgoon/static/css/main.e4418294.chunk.css"
+    "revision": "cc695fbd75612b41458e",
+    "url": "/dorgoon/static/css/main.1ee38ca4.chunk.css"
   },
   {
-    "revision": "0d6d04a0772b09928af2",
-    "url": "/dorgoon/static/js/2.6165a24b.chunk.js"
+    "revision": "bdaf8f0a4a3c44480508",
+    "url": "/dorgoon/static/js/2.f77d37f4.chunk.js"
   },
   {
-    "revision": "89f014d50e195ea584d8",
-    "url": "/dorgoon/static/js/main.e30e248b.chunk.js"
+    "revision": "60f6bf9e100e456690e9ab6c9a37bfc2",
+    "url": "/dorgoon/static/js/2.f77d37f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "355a7cb6b6c2c4d8dc9c",
-    "url": "/dorgoon/static/js/runtime~main.d70e53c2.js"
+    "revision": "cc695fbd75612b41458e",
+    "url": "/dorgoon/static/js/main.55ed1af9.chunk.js"
+  },
+  {
+    "revision": "026420eec2c1354f8947",
+    "url": "/dorgoon/static/js/runtime-main.da9a104a.js"
   },
   {
     "revision": "4e4f6805b1333d139af76639f72e52da",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1fd44150a5cfde96a7bcd740b5115ef7",
     "url": "/dorgoon/static/media/SverxSoznanie.1fd44150.png"
+  },
+  {
+    "revision": "ac042ab8144c5102c15bd7346cdcc8b7",
+    "url": "/dorgoon/static/media/icon-close.ac042ab8.svg"
   },
   {
     "revision": "6898100ab8e1d3417d65f6a016177595",
