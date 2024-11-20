@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Modal } from "../Modal/Modal";
 import "./Main.css";
 
-function Main({ image, name, discription }) {
+function Vowels({ image, name, discription }) {
   const [modalInfoIsOpen, setModalInfoIsOpen] = useState(false);
 
   return (
@@ -23,4 +23,4 @@ function Main({ image, name, discription }) {
   );
 }
 
-export default Main;
+export default Vowels;
