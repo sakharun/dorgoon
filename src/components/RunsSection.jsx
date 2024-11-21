@@ -1,5 +1,5 @@
 import React from "react";
-import runs from "../dataRuns1";
+import runs from "../dataRuns";
 import vowels from "../VowelsData";
 import Main from "./Main/Main";
 import Vowels from "./Main/Vowels";
