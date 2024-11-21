@@ -7,7 +7,7 @@
   background-color: rgba(0, 0, 0, 0.75);
   overflow: hidden;
   overflow: auto;
-  transition: opacit 0.3s;
+  transition: opacity 0.3s;
   z-index: 999;
 }
 
