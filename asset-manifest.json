@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dorgoon/static/css/main.1ee38ca4.chunk.css",
-    "main.js": "/dorgoon/static/js/main.55ed1af9.chunk.js",
-    "main.js.map": "/dorgoon/static/js/main.55ed1af9.chunk.js.map",
+    "main.css": "/dorgoon/static/css/main.6189e0d4.chunk.css",
+    "main.js": "/dorgoon/static/js/main.87cfc7d6.chunk.js",
+    "main.js.map": "/dorgoon/static/js/main.87cfc7d6.chunk.js.map",
     "runtime-main.js": "/dorgoon/static/js/runtime-main.da9a104a.js",
     "runtime-main.js.map": "/dorgoon/static/js/runtime-main.da9a104a.js.map",
     "static/js/2.f77d37f4.chunk.js": "/dorgoon/static/js/2.f77d37f4.chunk.js",
     "static/js/2.f77d37f4.chunk.js.map": "/dorgoon/static/js/2.f77d37f4.chunk.js.map",
     "index.html": "/dorgoon/index.html",
-    "precache-manifest.bb8fbe3dae3142d4f2ce39be8f91d949.js": "/dorgoon/precache-manifest.bb8fbe3dae3142d4f2ce39be8f91d949.js",
+    "precache-manifest.d6bfa808a355561ed2f25d0f6b701e5c.js": "/dorgoon/precache-manifest.d6bfa808a355561ed2f25d0f6b701e5c.js",
     "service-worker.js": "/dorgoon/service-worker.js",
-    "static/css/main.1ee38ca4.chunk.css.map": "/dorgoon/static/css/main.1ee38ca4.chunk.css.map",
+    "static/css/main.6189e0d4.chunk.css.map": "/dorgoon/static/css/main.6189e0d4.chunk.css.map",
     "static/js/2.f77d37f4.chunk.js.LICENSE.txt": "/dorgoon/static/js/2.f77d37f4.chunk.js.LICENSE.txt",
     "static/media/Ca.png": "/dorgoon/static/media/Ca.4e4f6805.png",
     "static/media/NadSoznanie.png": "/dorgoon/static/media/NadSoznanie.d3098da7.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.da9a104a.js",
     "static/js/2.f77d37f4.chunk.js",
-    "static/css/main.1ee38ca4.chunk.css",
-    "static/js/main.55ed1af9.chunk.js"
+    "static/css/main.6189e0d4.chunk.css",
+    "static/js/main.87cfc7d6.chunk.js"
   ]
 }
