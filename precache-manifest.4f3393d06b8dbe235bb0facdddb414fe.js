@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6ed7e6c74af76665afa8185999623f7",
+    "revision": "89cff925e7f4dad8862a613b555087a6",
     "url": "/dorgoon/index.html"
   },
   {
-    "revision": "ed840d629f590cae0091",
+    "revision": "ed7f334b74021c1218b9",
     "url": "/dorgoon/static/css/main.6189e0d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dorgoon/static/js/2.41d31662.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed840d629f590cae0091",
-    "url": "/dorgoon/static/js/main.eec91be4.chunk.js"
+    "revision": "ed7f334b74021c1218b9",
+    "url": "/dorgoon/static/js/main.20bf28e4.chunk.js"
   },
   {
     "revision": "026420eec2c1354f8947",
