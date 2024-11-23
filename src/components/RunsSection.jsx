@@ -26,7 +26,7 @@ export default function RunsSection() {
   // vowels Урууна аһаҕас дорҕооноро
   return (
     <section>
-      <h3 className="centered">Руна эбэтэр Урууна Сурук</h3>
+      <h4 className="centered">Бүтэй дорҕооннор бэлиэлэрэ</h4>
       {runs.image}
       <p>
         Сиһилии билэргэ баттаан көр{" "}
@@ -35,7 +35,7 @@ export default function RunsSection() {
         </span>
       </p>
       <div>{ModalElement}</div>
-      <h4 className="centered">Урууна аһаҕас дорҕооноро</h4>
+      <h4 className="centered">Аһаҕас дорҕооннор бэлиэлэрэ</h4>
       <div>{ModalVowels}</div>
     </section>
   );

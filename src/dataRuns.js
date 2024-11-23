@@ -46,7 +46,7 @@ import uk from "./components/images/uk.png";
 
 const runs = [
   {
-    name: "Ар",
+    name: "Аар",
     discription: "Аар - Улахан, киэн түгэҕэ биллибэт киэли (куйаар)",
     image: <img src={Aar} alt="Aar" />,
   },
@@ -57,7 +57,7 @@ const runs = [
     image: <img src={Aga} alt="Aga" />,
   },
   {
-    name: "Тут",
+    name: "Тутта",
     discription: "Куйаар, Дойду, Киһи сайдарын тутулун көрөдөрөр бэлиэ",
     image: <img src={tu} alt="tu" width={28} />,
   },
@@ -73,9 +73,9 @@ const runs = [
     image: <img src={an} alt="an" />,
   },
   {
-    name: "Тө/До",
+    name: "/Туо",
     discription:
-      "Тө, До. Төрүт, Дойду - До ойдута. До - Орто турууга баар Аан Дойду, аҕыс таһымыттан алын таһыма (иитэ-саҕата). До - икки таһымы холбуур ситим. ",
+      "Тө/Туо, До/Дуо. Төрүт, Дойду - До ойдута. До - Орто турууга баар Аан Дойду, аҕыс таһымыттан алын таһыма (иитэ-саҕата). До - икки таһымы холбуур ситим. ",
     image: <img src={До} alt="do" />,
   },
   {
@@ -93,13 +93,13 @@ const runs = [
   },
 
   {
-    name: "Энньэ",
+    name: "энньэ/анньа",
     discription:
       "Энньэ - Ийэ кут бэлиэтэ. Өбүгэ биэрбитэ, кыыс сүктэн барарыгар дьонун көмөтө уонна бэйэтэ оҥорбут мала - саба (ол аата бэйэн бу сиргэ оҥорбуккунан Ийэ кутун үөһэ таһымҥа тахсар)",
     image: <img src={dower} alt="dower" />,
   },
   {
-    name: "Өйө",
+    name: "өй/өйөө",
     discription: "Салгын кут бэлиэтэ. өбүгэ муспут өйө (Билиитэ)",
     image: <img src={өйө} alt="өйө" width={25} />,
   },
@@ -114,68 +114,68 @@ const runs = [
     image: <img src={yn} alt="yn" />,
   },
   {
-    name: "Сиэр/Һэри",
+    name: "һиэр/Һэри",
     discription: "Сиэр - Си иэрэ, сэрии",
     image: <img src={sieri} alt="sieri" />,
   },
   {
-    name: "Та",
+    name: "та",
     discription: "Таҥара",
     image: <img src={ta} alt="ta" />,
   },
   {
-    name: "Kа/Ха",
+    name: "ка/ха",
     discription: "Хаа, хахха, хаҕа, халлаан",
     image: <img src={ka} alt="ka" />,
   },
   {
-    name: "Ба",
+    name: "ба",
     discription:
       "Суох-баар буолбутуттан соһуйуу, чараас эйгэттэн биһиги эйгэбитигэр баар буолуу. Баҕа санаа туолуута (материализация)",
     image: <img src={ba} alt="ba" />,
   },
   {
-    name: "Бө",
+    name: "бө",
     discription:
       "бө-бөрө, мин да бө диэтэхпинэ(бэйэни көрдөрүү, утары хамсаныы, көмүскэнии, өрө барыы",
     image: <img src={bo} alt="bo" />,
   },
   {
-    name: "Аб",
+    name: "аб/ап",
     discription: "абылыыр, аптаах",
     image: <img src={ab} alt="ab" />,
   },
   {
-    name: "Үк",
+    name: "үк",
     discription: "үк, үҥ",
     image: <img src={yk} alt="yk" />,
   },
 
   {
-    name: "Уус",
+    name: "уус",
     discription:
       "Уус - төрүт-уус, уус-уран, уус тыл, уус киһи, аҕа, ийэ ууһа. Тас турук, тастан дьайыы",
     image: <img src={uus} alt="uus" />,
   },
   {
-    name: "Иис",
+    name: "иис",
     discription: "Ис турук, ис-искиттэн дьайыы",
     image: <img src={iis} alt="iis" />,
   },
   {
-    name: "өйдө/өй",
+    name: "өйдө/айда",
     discription:
       "Билиини илэ-бааччы оҥорон иҥэрэһин уонна бэйэн да билбэккэ оҥоруу. Бу олоххор хааламмыт билиин",
     image: <img src={өйдө} alt="өйдө" />,
   },
   {
-    name: "Ини",
+    name: "ини",
     discription: "бииргэ төрөбүттэртэн кыралара",
     image: <img src={ини} alt="ини" />,
   },
   {
     name: " һыт/һит",
-    discription: "һыт",
+    discription: "ыыт/ иит",
     image: <img src={һыт} alt="һыт" />,
   },
   {
@@ -194,8 +194,8 @@ const runs = [
     image: <img src={ыл} alt="ыл" width={20} />,
   },
   {
-    name: "өҥ",
-    discription: "өҥ",
+    name: "өҥ/үҥ",
+    discription: "өҥ/үҥ",
     image: <img src={өҥ} alt="өҥ" width={20} />,
   },
   {
@@ -211,15 +211,11 @@ const runs = [
   },
 
   {
-    name: "дь",
-    discription: "дь - омуктуу 're' суолтатын көрдөрөр",
+    name: "дьаһа",
+    discription: "дьаһа",
     image: <img src={дь} alt="дь" width={30} />,
   },
-  {
-    name: "дьа",
-    discription: "дьа - утары турааччы, хамсатар күүс",
-    image: <img src={дьа} alt="дьа" width={30} />,
-  },
+
   {
     name: "гын",
     discription: "гын - тас эйгэҕэ хамсааһын оҥоруу",
@@ -236,7 +232,7 @@ const runs = [
     image: <img src={иччи} alt="иччи" width={20} />,
   },
   {
-    name: "Айы",
+    name: "айы",
     discription: "Айар күүстэр",
     image: <img src={Aiu} alt="Aiu" width={20} />,
   },
@@ -247,12 +243,12 @@ const runs = [
     image: <img src={me} alt="me" width={20} />,
   },
   {
-    name: "Эсти",
+    name: "исти/эсти",
     discription: "үттү эсти, өрүс эстиитэ, хамсааһын тахсыыта",
     image: <img src={esti} alt="esti" width={20} />,
   },
   {
-    name: "Эр",
+    name: "эр",
     discription: "эр киһи, эрдэ (кэм хаамыта)",
     image: <img src={er} alt="er" width={20} />,
   },
