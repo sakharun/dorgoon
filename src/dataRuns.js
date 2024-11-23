@@ -28,11 +28,9 @@ import аны from "./components/images/аны.png";
 import ыл from "./components/images/ыл.png";
 import өҥ from "./components/images/өҥ.png";
 import ох from "./components/images/ох.png";
-
 import аҥна from "./components/images/аҥна.png";
-
 import дь from "./components/images/дь.png";
-import дьа from "./components/images/дьа.png";
+//import дьа from "./components/images/дьа.png";
 import гын from "./components/images/гын.png";
 import им from "./components/images/им.png";
 import иччи from "./components/images/иччи.png";
@@ -43,6 +41,7 @@ import er from "./components/images/er.png";
 import үттү from "./components/images/үттү.png";
 import өҕө from "./components/images/өҕө.png";
 import uk from "./components/images/uk.png";
+import ох from "./components/images/ох.png";
 
 const runs = [
   {
@@ -202,6 +201,11 @@ const runs = [
     name: "ох",
     discription: "ох",
     image: <img src={ох} alt="ох" width={20} />,
+  },
+  {
+    name: "хо",
+    discription: "хо",
+    image: <img src={хо} alt="хо" width={20} />,
   },
 
   {
