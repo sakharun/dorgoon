@@ -7,20 +7,11 @@ import ыаиэ from "./components/images/ыаиэ.png";
 
 const vowels = [
   {
-    name: "уһа Үһэ",
-    discription: "уһа Үһэ",
-    image: <img src={уһаҮһэ} alt="уһаҮһэ" width={20} />,
-  },
-  {
-    name: "ыһаИһэ",
-    discription: "ыһа/иһэ",
-    image: <img src={ыһаИһэ} alt="ыһаИһэ" width={20} />,
-  },
-  {
     name: "ыа/иэ",
     discription: "ыа/иэ ",
     image: <img src={ыаиэ} alt="ыаиэ" width={20} />,
   },
+
   {
     name: "уо",
     discription: "уо",
@@ -30,6 +21,16 @@ const vowels = [
     name: "үө",
     discription: "үө",
     image: <img src={үө} alt="үө" width={20} />,
+  },
+  {
+    name: "уһа/үһэ",
+    discription: "уһа Үһэ",
+    image: <img src={уһаҮһэ} alt="уһаҮһэ" width={20} />,
+  },
+  {
+    name: "ыһа/иһэ",
+    discription: "ыһа/иһэ",
+    image: <img src={ыһаИһэ} alt="ыһаИһэ" width={20} />,
   },
 ];
 export default vowels;
