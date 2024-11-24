@@ -41,7 +41,7 @@ import er from "./components/images/er.png";
 import үттү from "./components/images/үттү.png";
 import өҕө from "./components/images/өҕө.png";
 import uk from "./components/images/uk.png";
-import ох from "./components/images/ох.png";
+import хо from "./components/images/хо.png";
 
 const runs = [
   {
@@ -130,7 +130,7 @@ const runs = [
   {
     name: "ба",
     discription:
-      "Суох-баар буолбутуттан соһуйуу, чараас эйгэттэн биһиги эйгэбитигэр баар буолуу. Баҕа санаа туолуута (материализация)",
+      "Суох-баар буолбутуттан соһуйуу, чараас эйгэттэн биһиги эйгэбитигэр баар буолуу. Бэриллэр кыах, үп(Потенциал), бу баарбын дэнэр",
     image: <img src={ba} alt="ba" />,
   },
   {
