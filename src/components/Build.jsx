@@ -7,8 +7,9 @@ const Build = () => {
     <section>
       <div className="centered">
         <h3>Ураһа</h3>
-        <img src={urun} alt="urun" width={420} />
         <img src={tutul} alt="tutul" width={420} />
+        <img src={urun} alt="urun" width={420} />
+        
       </div>
     </section>
   );
