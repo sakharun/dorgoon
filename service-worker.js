@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dorgoon/precache-manifest.25d22de3d4486d4a7e418ed81e9f7a58.js"
+  "/dorgoon/precache-manifest.a63307f9912cd47cec32ea45bd3e3d0e.js"
 );
 
 self.addEventListener('message', (event) => {
