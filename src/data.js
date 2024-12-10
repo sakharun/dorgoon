@@ -51,7 +51,7 @@ export const ways = [
 
   {
     title: "Алгыс",
-    description: "Алгыс - Аалы гын ыс (Алгоритм) ",
+    description: "Алгыс - Аалы гын ыс ",
   },
   {
     title: "Алтыс",
