@@ -99,12 +99,13 @@ const runs = [
   },
   {
     name: "өй/өйөө",
-    discription: "Салгын кут бэлиэтэ. өбүгэ муспут өйө (Билиитэ)",
+    discription:
+      "Салгын кут бэлиэтэ. өбүгэ муспут өйө (Билиитэ), тэҥнээн көрөр аналлаах саҥаны, бэйэтин билиитин кытары",
     image: <img src={өйө} alt="өйө" width={25} />,
   },
   {
     name: "Ил",
-    discription: "Ил - иилэр, түмэр",
+    discription: "Ил - иилэр, түмэр, илим куртук ситимнэр",
     image: <img src={il} alt="il" />,
   },
   {
@@ -124,7 +125,7 @@ const runs = [
   },
   {
     name: "ка/ха",
-    discription: "Хаа, хахха, хаҕа, халлаан",
+    discription: "Хаа, хахха, хаҕа, кут хаххата",
     image: <img src={ka} alt="ka" />,
   },
   {
@@ -174,7 +175,7 @@ const runs = [
   },
   {
     name: " һыт/һит",
-    discription: "ыыт/ иит",
+    discription: "ыыт, сыт, сит, иит",
     image: <img src={һыт} alt="һыт" />,
   },
   {
