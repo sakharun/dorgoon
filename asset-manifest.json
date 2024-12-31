@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dorgoon/static/css/main.6189e0d4.chunk.css",
-    "main.js": "/dorgoon/static/js/main.e3cf9c8e.chunk.js",
-    "main.js.map": "/dorgoon/static/js/main.e3cf9c8e.chunk.js.map",
+    "main.js": "/dorgoon/static/js/main.71c5ed66.chunk.js",
+    "main.js.map": "/dorgoon/static/js/main.71c5ed66.chunk.js.map",
     "runtime-main.js": "/dorgoon/static/js/runtime-main.da9a104a.js",
     "runtime-main.js.map": "/dorgoon/static/js/runtime-main.da9a104a.js.map",
-    "static/js/2.f77d37f4.chunk.js": "/dorgoon/static/js/2.f77d37f4.chunk.js",
-    "static/js/2.f77d37f4.chunk.js.map": "/dorgoon/static/js/2.f77d37f4.chunk.js.map",
+    "static/js/2.17ebfb68.chunk.js": "/dorgoon/static/js/2.17ebfb68.chunk.js",
+    "static/js/2.17ebfb68.chunk.js.map": "/dorgoon/static/js/2.17ebfb68.chunk.js.map",
     "index.html": "/dorgoon/index.html",
-    "precache-manifest.4fd793baa74b46fa9fd35eca68b1f5e3.js": "/dorgoon/precache-manifest.4fd793baa74b46fa9fd35eca68b1f5e3.js",
+    "precache-manifest.b1c2ccddbc4d821a8b0fd7a81c2fcdff.js": "/dorgoon/precache-manifest.b1c2ccddbc4d821a8b0fd7a81c2fcdff.js",
     "service-worker.js": "/dorgoon/service-worker.js",
     "static/css/main.6189e0d4.chunk.css.map": "/dorgoon/static/css/main.6189e0d4.chunk.css.map",
-    "static/js/2.f77d37f4.chunk.js.LICENSE.txt": "/dorgoon/static/js/2.f77d37f4.chunk.js.LICENSE.txt",
+    "static/js/2.17ebfb68.chunk.js.LICENSE.txt": "/dorgoon/static/js/2.17ebfb68.chunk.js.LICENSE.txt",
     "static/media/Ca.png": "/dorgoon/static/media/Ca.4e4f6805.png",
     "static/media/NadSoznanie.png": "/dorgoon/static/media/NadSoznanie.d3098da7.png",
     "static/media/Soznanie.png": "/dorgoon/static/media/Soznanie.77a62fbf.png",
@@ -19,13 +19,14 @@
     "static/media/icon-close.ac042ab8.svg": "/dorgoon/static/media/icon-close.ac042ab8.svg",
     "static/media/run.png": "/dorgoon/static/media/run.6898100a.png",
     "static/media/tangra.png": "/dorgoon/static/media/tangra.d73453f8.png",
+    "static/media/АалУктаахМас.png": "/dorgoon/static/media/АалУктаахМас.93e95625.png",
     "static/media/Таҥара.png": "/dorgoon/static/media/Таҥара.89276474.png",
     "static/media/Үрүҥ Айыы.png": "/dorgoon/static/media/Үрүҥ Айыы.4ec85e21.png"
   },
   "entrypoints": [
     "static/js/runtime-main.da9a104a.js",
-    "static/js/2.f77d37f4.chunk.js",
+    "static/js/2.17ebfb68.chunk.js",
     "static/css/main.6189e0d4.chunk.css",
-    "static/js/main.e3cf9c8e.chunk.js"
+    "static/js/main.71c5ed66.chunk.js"
   ]
 }
