@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dorgoon/static/css/main.6189e0d4.chunk.css",
-    "main.js": "/dorgoon/static/js/main.03d46986.chunk.js",
-    "main.js.map": "/dorgoon/static/js/main.03d46986.chunk.js.map",
+    "main.js": "/dorgoon/static/js/main.b71c165d.chunk.js",
+    "main.js.map": "/dorgoon/static/js/main.b71c165d.chunk.js.map",
     "runtime-main.js": "/dorgoon/static/js/runtime-main.da9a104a.js",
     "runtime-main.js.map": "/dorgoon/static/js/runtime-main.da9a104a.js.map",
     "static/js/2.f77d37f4.chunk.js": "/dorgoon/static/js/2.f77d37f4.chunk.js",
     "static/js/2.f77d37f4.chunk.js.map": "/dorgoon/static/js/2.f77d37f4.chunk.js.map",
     "index.html": "/dorgoon/index.html",
-    "precache-manifest.84c9185784bd07582288963fd6417964.js": "/dorgoon/precache-manifest.84c9185784bd07582288963fd6417964.js",
+    "precache-manifest.7dd30c1df75f309b8cb36f55b4697f18.js": "/dorgoon/precache-manifest.7dd30c1df75f309b8cb36f55b4697f18.js",
     "service-worker.js": "/dorgoon/service-worker.js",
     "static/css/main.6189e0d4.chunk.css.map": "/dorgoon/static/css/main.6189e0d4.chunk.css.map",
     "static/js/2.f77d37f4.chunk.js.LICENSE.txt": "/dorgoon/static/js/2.f77d37f4.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.da9a104a.js",
     "static/js/2.f77d37f4.chunk.js",
     "static/css/main.6189e0d4.chunk.css",
-    "static/js/main.03d46986.chunk.js"
+    "static/js/main.b71c165d.chunk.js"
   ]
 }
